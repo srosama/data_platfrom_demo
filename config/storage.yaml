@@ -1,0 +1,6 @@
+data_warehouse:
+  host: "db.example.com"
+  port: 5432
+  database: "analytics"
+  user: "dbuser"
+  password: "securepassword"

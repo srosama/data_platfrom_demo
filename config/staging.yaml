@@ -1,0 +1,7 @@
+staging:
+  temp_storage_path: "./data/staging/"
+  validation_rules:
+    - field: "id"
+      type: "integer"
+    - field: "value"
+      type: "float"

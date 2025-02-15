@@ -1,0 +1,4 @@
+processing:
+  batch_size: 100
+  transformation:
+    scale_factor: 1.5
